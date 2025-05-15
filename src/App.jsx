@@ -12,7 +12,7 @@ export const App = () => {
 
   const add100 = () => {
     setCount(prev => {
-      return prev + 100;
+      return prev + 100
     });
   };
 
